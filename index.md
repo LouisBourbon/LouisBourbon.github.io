@@ -8,15 +8,12 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Louis BOURBON
 Elève ingénieur en [I1]
-
 
 Disponible XX mois à partir de Date
 
 [Louis.Bourbon[at]gmail.com](mailto:louis.bourbon@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
-
-Permis B, voiture
 
