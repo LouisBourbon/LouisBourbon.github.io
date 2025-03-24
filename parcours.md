@@ -9,17 +9,13 @@ download_cv: assets/docs/Template_CV.pdf
 ## Formation 
 
 `20XX – 20XX`
-**Nom de votre école**
+**Ecole Polytecgnique d'Unilasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en I1
 * Cours : préciser les cours en phase avec le poste visé
-
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
+* 
 `20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Bac Général avec spécialité Maths et NSI, mention assez-bien, Amiens
 
 ## Expériences
 
@@ -46,12 +42,12 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 à préciser : niveau à préciser B1
+* LV2 à préciser : niveau à préciser A2
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Premiere Pro
+* EduPython
 
 Autres
 * Autres diplômes ou permis spéciaux
@@ -59,9 +55,9 @@ Autres
 ## Centres d’intérêt
 
 Loisirs 1
-* Description 
-* Description 
+* Aller à la salle
+* Jeux Vidéos
 
 Loisirs 1
-* Description 
-* Description 
+* Lire des livres de philosophies et de science 
+* Construire des Legos
