@@ -9,11 +9,11 @@ hero_image_ratio: is-1by1
 ---
 
 # Louis BOURBON
-Elève ingénieur en [I1]
+Elève ingénieur en I1
 
 Disponible XX mois à partir de Date
 
-[Louis.Bourbon[at]gmail.com](mailto:louis.bourbon@gmail.com)
+[Louis.Bourbon@gmail.com](mailto:louis.bourbon@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
