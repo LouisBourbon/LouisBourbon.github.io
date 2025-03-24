@@ -14,23 +14,23 @@ download_cv: assets/docs/Template_CV.pdf
 Elève ingénieur en I1
 * Cours : préciser les cours en phase avec le poste visé
 * 
-`20XX`
+`2024`
 Bac Général avec spécialité Maths et NSI, mention assez-bien, Amiens
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025` **Projet d’étude – préciser le thème du projet**
 
 _Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Création d'un bras multi fonction
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2025` **Entreprise, secteur activité, description site rejoint, taille, ville**
 
 _Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Gestion des déchets
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
